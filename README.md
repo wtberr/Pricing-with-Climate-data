@@ -1,2 +1,2 @@
 # Pricing-with-Climate-data
-Doing some work with climate data in Subharan Africa and pricing data in local markets. Overall, we are attempting to see if there are any significant correlations with climate phenomena/change and price fluctuations.
+Doing some work with climate data in Subharan Africa and pricing data in local markets. Overall, we are attempting to see if there are any significant correlations with climate phenomena/change and price fluctuations. SO far we have a used a KNN approach to facilitate temporal and geospatial matching of market data with climate data, and performed descriptive anaysis on key metrics in the merged data frame.
